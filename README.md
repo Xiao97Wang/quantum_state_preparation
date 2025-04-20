@@ -1,4 +1,4 @@
-# QPrep
+# QPrep (stablized environment)
 A library devoted to quantum state preparation via tensor netwokrs. As an input it takes a function and number of qubits and returns a qiskit circuit for preparing the quantum state.
 
 ![QPrep bench](img/results.jpg)
