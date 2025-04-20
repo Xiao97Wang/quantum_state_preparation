@@ -1,11 +1,19 @@
+--find-links https://storage.googleapis.com/jax-releases/jax_releases.html
+
 git+https://github.com/LuchnikovI/QGOpt
 git+https://github.com/jcmgray/cotengra.git
+
+numpy==1.19.5
+scipy==1.10.1
+matplotlib==3.6.3
+numba==0.56.4
+
 qiskit==0.38.0
 TensorNetwork==0.4.6
-jax==0.3.17
+jax==0.3.15
 jaxlib==0.3.15
 ttpy==1.2.1
 kahypar==1.1.7
 quimb==1.4.0
 pylatexenc==2.10
-tensorflow==2.8.2
+tensorflow==2.5.0
