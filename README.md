@@ -1,3 +1,9 @@
+This is a stablized version of the QPrep method given in https://github.com/Terra-Quantum-AG/quantum_state_preparation
+The original way to install this QPrep is broken due to the upgrade of python
+Here we provide a stable way to install this QPrep in linux
+
+
+
 # QPrep (stablized environment)
 A library devoted to quantum state preparation via tensor netwokrs. As an input it takes a function and number of qubits and returns a qiskit circuit for preparing the quantum state.
 
