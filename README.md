@@ -1,6 +1,6 @@
-This is a stablized version of the QPrep method given in https://github.com/Terra-Quantum-AG/quantum_state_preparation
-The original way to install this QPrep is broken due to the upgrade of python
-Here we provide a stable way to install this QPrep in linux
+This is a stablized version of the QPrep method given in https://github.com/Terra-Quantum-AG/quantum_state_preparation.
+The original way to install this QPrep is broken due to the upgrade of python.
+Here we provide a stable way to install this QPrep in linux.
 
 
 
