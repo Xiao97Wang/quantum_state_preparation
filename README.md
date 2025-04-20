@@ -11,13 +11,31 @@ TensorFlow >= 2.0
 - Cotengra (https://github.com/jcmgray/cotengra)
 - TensorNetwork (https://github.com/google/TensorNetwork)
 
-Use 
-```
-   !pip install -r requirements.txt
-```
+
 
 
 ## Installation
+
+This only works in linux. First, make sure gcc and gfortran is installed in linux. 
+
+Then, create an env in conda, with python=3.9
+```
+   conda create --name QPrep python=3.9
+   conda activate QPrep
+```
+
+Then, install ttpy USING Conda:
+```
+   conda install numpy==1.19.5 cython=3.0.11
+   pip install ttpy
+```
+
+Then, download the repo
+```
+   git clone 
+```
+
+
 Clone the repository:
 
 ```
