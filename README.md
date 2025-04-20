@@ -30,10 +30,10 @@ Then, install ttpy USING Conda:
    pip install ttpy
 ```
 
-Then, download the repo, and build the corrected_requirements.txt
+Then, download the repo, and build the STABLIZED "requirements.txt"
 ```
    git clone https://github.com/Xiao97Wang/quantum_state_preparation.git
-   pip install -r quantum_state_preparation/corrected_requirements.txt
+   pip install -r quantum_state_preparation/requirements.txt
 ```
 
 Then, in the directory 'quantum_state_preparation', open python, and then the function qprepfn can be correctly imported
