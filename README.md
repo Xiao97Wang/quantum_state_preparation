@@ -32,6 +32,7 @@ Then, create an env in conda, with python=3.9
 
 Then, install ttpy USING Conda:
 ```
+   pip install setuptools==59.8.0
    conda install numpy==1.19.5 cython=3.0.11
    pip install ttpy
 ```
