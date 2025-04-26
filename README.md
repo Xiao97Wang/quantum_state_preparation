@@ -22,7 +22,7 @@ TensorFlow >= 2.0
 
 ## Installation
 
-This only works in linux. First, make sure gcc and gfortran is installed in linux. 
+This only works in linux Ubuntu-20.04. First, make sure gcc and gfortran is installed in linux. 
 
 Then, create an env in conda, with python=3.9
 ```
